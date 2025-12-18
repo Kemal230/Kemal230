@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Kemal 👋
+Web Developer specializing in Laravel and PHP-based web applications.
 
-<!--
-**Kemal230/Kemal230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- Web Developer with hands-on experience in Laravel 12, PHP, and MySQL
+- Experienced in building e-commerce systems and REST API integration
+- Comfortable working independently and managing full development cycles
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Backend: PHP, Laravel 12
+- Frontend: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
+- Database: MySQL
+- Tools: Git, GitHub, Laragon, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+### E-Widia – E-Commerce Web Application
+- Full-stack e-commerce platform built with Laravel 12
+- Features: Authentication, RBAC, Cart, Checkout, Discounts, Reports
+- Tech: Laravel, PHP, MySQL, Bootstrap, Tailwind CSS
+- Repository: (Private – available upon request)
+
+## 📫 Contact
+- Email: kemalfarabihabi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kemal-farabi-habidillah
